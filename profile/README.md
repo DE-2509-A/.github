@@ -1,4 +1,7 @@
-![Digital Futures](https://github.com/digital-futures-academy/DataScienceMasterResources/blob/main/Resources/datascience-notebook-header.png?raw=true)
+![Digital Futures](https://github.com/DE-2509-A/.github/blob/main/DF-Logo-Full-Text-White-Coral.png?raw=true)
+
+
+
 
 # Data Engineering Cohort 14 September 2025 (DE-2509-A)
 
