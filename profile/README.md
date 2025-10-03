@@ -13,9 +13,9 @@ Welcome to the Data Engineering Cohort 14 September 2025 repository home! This p
   Below are links to repositories you should fork to participate in demonstrations and hands-on activities.  
 
   > - [1. Tech Essentials SQL](https://github.com/de-2509-a/tech-essentials-sql)
-<!--  
   > - [2. Git Basics](https://github.com/de-2509-a/git-basics)
   > - [3. Python Basics](https://github.com/de-2509-a/python-basics)
+<!--  
   > - [4. Web Scraping](https://github.com/de-2509-a/web-scraping)
   > - [5. Extracting with Pandas](https://github.com/de-2509-a/extracting-wth-pandas)
   > - [6. Transforming using Pandas](https://github.com/de-2509-a/transforming-using-pandas)
